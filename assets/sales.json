@@ -1,0 +1,29 @@
+[
+{"type":"header","version":"4.9.2","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"visin_survey"},
+{"type":"table","name":"sales","database":"visin_survey","data":
+[
+    {"OrderDate":"1","Region":"PerairanUmum","Produksi":"Telanaipura","Units":"135.55"},
+    {"OrderDate":"2","Region":"KJA","Produksi":"Telanaipura","Units":"272.74"},
+    {"OrderDate":"3","Region":"Kolam","Produksi":"Telanaipura","Units":"177.83"},
+    {"OrderDate":"4","Region":"Kolam","Produksi":"Kotabaru","Units":"195.24"},
+    {"OrderDate":"5","Region":"Kolam","Produksi":"Jelutung","Units":"37.7"},
+    {"OrderDate":"6","Region":"Kolam","Produksi":"Pasarjambi","Units":"4.48"},
+    {"OrderDate":"7","Region":"Kolam","Produksi":"Jambiselatan","Units":"128.89"},
+    {"OrderDate":"8","Region":"PerairanUmum","Produksi":"Jambitimur","Units":"119.87"},
+    {"OrderDate":"9","Region":"KJA","Produksi":"Jambitimur","Units":"14.65"},
+    {"OrderDate":"10","Region":"Kolam","Produksi":"Jambitimur","Units":"159.3"},
+    {"OrderDate":"11","Region":"PerairanUmum","Produksi":"Pelayangan","Units":"160.17"},
+    {"OrderDate":"12","Region":"KJA","Produksi":"Pelayangan","Units":"79.97"},
+    {"OrderDate":"13","Region":"Kolam","Produksi":"Pelayangan","Units":"42.11"},
+    {"OrderDate":"14","Region":"PerairanUmum","Produksi":"Danauteluk","Units":"158.42"},
+    {"OrderDate":"15","Region":"KJA","Produksi":"Danauteluk","Units":"314.25"},
+    {"OrderDate":"16","Region":"Kolam","Produksi":"Danauteluk","Units":"68"},
+    {"OrderDate":"17","Region":"PerairanUmum","Produksi":"Danausipin","Units":"96.99"},
+    {"OrderDate":"18","Region":"KJA","Produksi":"Danausipin","Units":"73.7"},
+    {"OrderDate":"19","Region":"Kolam","Produksi":"Danausipin","Units":"22.7"},
+    {"OrderDate":"20","Region":"Kolam","Produksi":"Paalmerah","Units":"513.4"},
+    {"OrderDate":"21","Region":"Kolam","Produksi":"Alambarajo","Units":"287.1"}
+]
+}
+]
